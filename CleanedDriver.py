@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 # LOAD IMAGE & PREPROCESSING
 # ==============================
 # Read input image
-img = cv2.imread("img2.jpg")
+img = cv2.imread("img.jpg")
 
 # Convert to grayscale
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
