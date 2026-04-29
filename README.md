@@ -1,5 +1,12 @@
 # 🎼 OMR-PreProcessor: Musical Feature Isolation
 
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-Image%20Processing-green?logo=opencv)](https://opencv.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Matrix%20Ops-orange?logo=numpy)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-yellow?logo=plotly)](https://matplotlib.org/)
+[![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active-success)]()
+
 An **Optical Music Recognition (OMR)** preprocessing pipeline built with Python and OpenCV. This project focuses on the difficult task of isolating musical notes from complex staff environments using geometric and morphological analysis.
 
 ---
